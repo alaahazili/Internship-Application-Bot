@@ -184,30 +184,9 @@ The application provides the following API endpoints:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## ⚠️ Disclaimer
 
 This application is for educational purposes. Please ensure you comply with LinkedIn's Terms of Service and respect rate limits when scraping data. The developers are not responsible for any misuse of this application.
 
-## 🆘 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Issues](https://github.com/alaahazili/Internship-Application-Bot/issues) page
-2. Create a new issue with detailed information
-3. Contact the maintainers
-
-## 🔄 Updates
-
-Stay updated with the latest features and bug fixes by:
-
-1. Starring the repository
-2. Watching for updates
-3. Checking the releases page
-
----
-
-**Made with ❤️ for students and job seekers** 
